@@ -1,5 +1,5 @@
--- Phase 2: Churn by plan type
--- Question: Does plan choice predict churn?
+-- Phase 2: Churn by channel 
+-- Question: Does channel predict churn?
 
 SELECT
   plan_type,
