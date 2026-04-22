@@ -4,6 +4,8 @@ One in four subscribers churn. €1.73M in lost lifetime revenue. This project l
 
 Built on a 5,000-subscriber dataset modelled on a European meal kit business. Analysis in BigQuery SQL, story in 10 slides.
 
+![Risk tier overview](risk-tiers.jpg)
+
 ---
 
 ## What the data says
