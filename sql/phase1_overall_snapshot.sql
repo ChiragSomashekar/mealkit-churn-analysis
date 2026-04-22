@@ -8,4 +8,4 @@ SELECT
   ROUND(AVG(weeks_active), 2) AS avg_weeks_active,
   ROUND(AVG(nps), 2) AS avg_nps,
   ROUND(AVG(skip_rate) * 100, 2) AS avg_skip_rate
-FROM `project-pra-477112.hellofresh.subscribers`
+FROM `subscribers`
