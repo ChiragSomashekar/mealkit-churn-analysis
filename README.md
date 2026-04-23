@@ -51,4 +51,4 @@ The dataset is synthetic. Recovery calculations assume saved subscribers generat
 
 Built by Chirag Somashekar, a data analyst in Berlin. Presented under Sinn, a personal data storytelling practice.
 
-The full story lives in `presentation/`.
+The full story [presentation](presentation/).
